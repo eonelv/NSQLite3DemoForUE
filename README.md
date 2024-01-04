@@ -11,6 +11,8 @@ you can execute sql statement such as select * from t_xxx where id=1 or insert i
 when we use select. the Blueprint node return a row. you can call it's GetNumber() by pass index or column name to gain you data.
 
 # how to use
+![useage](https://github.com/eonelv/NSQLite3DemoForUE/assets/8274145/3c4d5716-865a-47d2-baf9-fcf3227019a6)
+
 ![executequery](https://github.com/eonelv/NSQLite3DemoForUE/assets/8274145/51d8cd1e-8969-486f-bf51-b072907391c6)
 
 ![executesql](https://github.com/eonelv/NSQLite3DemoForUE/assets/8274145/2c69d4a3-0c7a-4036-999a-6000286126ea)
