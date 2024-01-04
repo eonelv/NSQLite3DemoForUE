@@ -20,7 +20,7 @@ when we use select. the Blueprint node return a row. you can call it's GetNumber
 ![open](https://github.com/eonelv/NSQLite3DemoForUE/assets/8274145/a559eb91-a02c-43d7-b7db-087623374b3b)
 
 # access the database by UI
-you can enter some sql in UI. and click relatve button to execute
+you can enter some sql in UI. and click relative button to execute
 if you enter select, the result will show on ui 
 ![query](https://github.com/eonelv/NSQLite3DemoForUE/assets/8274145/ff56cece-4882-4479-bd54-7a10ec099579)
 
